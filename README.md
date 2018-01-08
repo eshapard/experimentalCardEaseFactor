@@ -6,7 +6,7 @@ Cards must have more than 4 'review' reviews to be adjusted. Reviews done when t
 Important: **You must not use an interval modifier in your deck options**. In other words, your interval modifier must be set to 100% (no change) for all decks.
 
 ## YesOrNo.py
-When using the experimental card ease factor addon, you will not need to choose among hard, good, and easy. Instead, the addon will look at your past review success rate to determine whether the card's ease factor is too hard or too easy.
+When using the experimental card ease factor addon, you will not need to choose among hard, good, and easy. Instead, the addon will look at your past review success rate to determine whether the card's ease factor is too hard or too easy. So just use *good* if you remembered and *again* if you forgot.
 
 The YesOrNo.py addon changes your options from Again/Hard/Good/Easy, to Defeat/Victory (where victory is equal to good). The words are configurable in the addon. Note: There is a slot to control the "Show Answer" text, but that isn't implemented yet.
 
