@@ -18,5 +18,5 @@ The YesOrNo.py addon changes your options from Again/Hard/Good/Easy, to Defeat/V
 
 I suggest that you use the YesOrNo addon and that you disable *Show next review time above answer buttons* in Tools > Preferences... Seeing the next review times will just distract you from studying.
 
-IF YOU FIND THIS ADDON HELPFUL, PLEASE CONSIDER MAKING A $1 DONATION
-USING THIS LINK: https://paypal.me/eshapard/1
+## Shameless Donation Request
+If you find this addon helpful, please consider making a $1 donation using this link: https://paypal.me/eshapard/1
