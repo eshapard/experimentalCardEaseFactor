@@ -17,3 +17,6 @@ When using the experimental card ease factor addon, you will not need to choose 
 The YesOrNo.py addon changes your options from Again/Hard/Good/Easy, to Defeat/Victory (where victory is equal to good). The words are configurable in the addon. Note: There is a slot to control the "Show Answer" text, but that isn't implemented yet.
 
 I suggest that you use the YesOrNo addon and that you disable *Show next review time above answer buttons* in Tools > Preferences... Seeing the next review times will just distract you from studying.
+
+IF YOU FIND THIS ADDON HELPFUL, PLEASE CONSIDER MAKING A $1 DONATION
+USING THIS LINK: https://paypal.me/eshapard/1
