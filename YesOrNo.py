@@ -1,5 +1,5 @@
 # -*- mode: Python ; coding: utf-8 -*-
-# • Again Hard (Yes No) 2 buttons only
+# Good / Again (Yes No) 2 buttons only
 # License: GNU GPL, version 3 or later; http://www.gnu.org/copyleft/gpl.html
 # No support. Use it AS IS on your own risk.
 from __future__ import division
