@@ -8,10 +8,11 @@ from aqt.utils import tooltip
 import math
 targetRatio = 0.85
 showCardStats=True #Show the card stats in a pop-up
+minRevs = 4 #minium number of reviews before ease factors are adjusted
 
 def findSuccessRate(cardID):
     reviews = mw.col.db.scalar("select count() from revlog where type = 1 and cid = ?", cardID)
-    if not reviews or reviews < 4:
+    if not reviews or reviews < minRevs:
         return 0, 0, 0, 0
     correct = mw.col.db.scalar("select count() from revlog where type = 1 and cid = ? and ease > 1", cardID)
     if not correct: correct = 0
