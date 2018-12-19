@@ -10,7 +10,7 @@ Important: **You must not use an interval modifier in your deck options**. In ot
 You can simply copy experimentalCardEaseFactor.py and (optionally) YesNo.py to your addons directory.
 
 #### Anki 2.1 
-Create a new folder named *experimentalCardEaseFactor* in your Anki 2.1 addons directory. Save __init__.py, experimentalCardEaseFactor.py and YesNo.py to this folder. If you don't want to use YesNo.py, don't include it, and remove it from __init__.py
+Create a new folder named *experimentalCardEaseFactor* in your Anki 2.1 addons directory. Save `__init__.py`, experimentalCardEaseFactor.py and YesNo.py to this folder. If you don't want to use YesNo.py, don't include it, and remove it from `__init__.py`.
 
 ### Configuration
 There are a couple options that can be configured by editing the addon:
