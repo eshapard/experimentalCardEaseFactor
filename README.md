@@ -5,6 +5,13 @@ Cards must have more than 4 'review' reviews to be adjusted. Reviews done when t
 
 Important: **You must not use an interval modifier in your deck options**. In other words, your interval modifier must be set to 100% (no change) for all decks.
 
+### Installation
+#### Anki 2.0
+You can simply copy experimentalCardEaseFactor.py and (optionally) YesNo.py to your addons directory.
+
+#### Anki 2.1 
+Create a new folder named *experimentalCardEaseFactor* in your Anki 2.1 addons directory. Save __init__.py, experimentalCardEaseFactor.py and YesNo.py to this folder. If you don't want to use YesNo.py, don't include it, and remove it from __init__.py
+
 ### Configuration
 There are a couple options that can be configured by editing the addon:
 
